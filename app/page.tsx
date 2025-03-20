@@ -200,7 +200,7 @@ export default function Home() {
 
         <div className="text-center mt-4 text-xs text-gray-500">
           This is a demo of Extract data with AI using Firecrawl. To learn more, see the{" "}
-          <Link href="https://github.com/mendableai/events-extractor" target="_blank" className="text-orange-500">complete template</Link>.
+          <Link href="https://github.com/mendableai/firecrawl-vercel-integration" target="_blank" className="text-orange-500">complete template</Link>.
         </div>
       </motion.div>
     </main>
