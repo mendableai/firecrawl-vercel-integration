@@ -10,7 +10,7 @@ The application demonstrates how to:
 - Display extracted results in a user-friendly interface
 - Export results as JSON
 
-[View the live demo here](https://events-extractor.vercel.app/)
+[View the live demo here](https://firecrawl-vercel-integration.vercel.app/)
 
 ## Prerequisites
 
