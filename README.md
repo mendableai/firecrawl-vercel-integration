@@ -1,4 +1,4 @@
-# Events Extractor
+# Firecrawl Vercel Integration - Events Extractor
 
 This is a demo application showcasing the use of [Firecrawl](https://firecrawl.dev) to extract events and information from Rotten Tomatoes movie pages.
 
